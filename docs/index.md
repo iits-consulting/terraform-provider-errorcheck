@@ -1,5 +1,6 @@
 # terraform-provider-errorcheck Provider
 docs for `terraform-provider-errorcheck`
+This repository is a fork of: https://github.com/ContentSquare/terraform-provider-errorcheck
 
 ## Example Usage
 
